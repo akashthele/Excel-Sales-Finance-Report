@@ -1,4 +1,4 @@
-# Excel-Sales-Finance-Repor
+# Excel-Sales-Finance-Report
 
 𝗦𝗮𝗹𝗲𝘀 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗼𝗳 𝗔𝘁𝗹𝗶𝗤 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲
 
