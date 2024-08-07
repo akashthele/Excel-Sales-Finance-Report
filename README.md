@@ -1,4 +1,4 @@
-# Excel-Sales-Finance-Report
+# Excel-Sales-Report
 
 𝗦𝗮𝗹𝗲𝘀 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗼𝗳 𝗔𝘁𝗹𝗶𝗤 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲
 
@@ -9,22 +9,22 @@ The primary objective of this report is to analyze the sales performance of Atli
 📊 𝗧𝗵𝗲 𝗥𝗲𝗽𝗼𝗿𝘁 𝗜𝗻𝗰𝗹𝘂𝗱𝗲𝘀:
 
 1. Customer Net Sales Performance 
-2. Market Performance vs Target 
-3. Top 10 Products Based on Sales 
+2. Market Performance vs Target
+3. Top 5 Market places 
 4. Top 5 and Bottom 5 Products in Quantity Sold 
 5. Division Level Sales Report 
 6. New Products Launched in 2021 
-7. Top 5 Market places
+
 
 🔗 𝗠𝗲𝘁𝗵𝗼𝗱𝘀 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗲𝗱:
 
 1. Data was extracted from external sources, transformed and then loaded into Excel.
 
-2. Power Query Editor is used to perform data cleaning.
+2. Power Query Editor is used to perform data cleaning with checks including unniquness of primary keys,missing values using  absolute  for  negative values
 
 3. Connected dimension and fact tables to establish relationships.
 
-4. Created DAX measures for Net Sales of 2019, 2020, and 2021. 
+4. Created DAX measures for Net Sales for FY 2019, 2020, and 2021  starting september
 
 5. Utilized Pivot Tables and Power Pivot to create insightful reports.
 
