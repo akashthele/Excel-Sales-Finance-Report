@@ -20,7 +20,7 @@ The primary objective of this report is to analyze the sales performance of Atli
 
 1. Data was extracted from external sources, transformed and then loaded into Excel.
 
-2. Power Query Editor is used to perform data cleaning with checks including unniquness of primary keys,missing values using  absolute  for  negative values
+2. Power Query Editor is used to perform data cleaning with checks including uniquness of primary keys,missing values using  absolute  for  negative values
 
 3. Connected dimension and fact tables to establish relationships.
 
